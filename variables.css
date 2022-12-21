@@ -1,0 +1,10 @@
+:root {
+  --main-background-color: #F2EAE2;
+  --card-background-color: #FFFFFF;
+  --card-accent-color: #3D8168;
+  --card-regular-color: #6C7289;
+  --card-title-color: #1C232B;
+  --interface-border-radius: 8px;
+  --desktop-card-width: 600px;
+  --mobile-card-width: 343px;
+}
